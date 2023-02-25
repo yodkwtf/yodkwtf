@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://yodkwtf.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dds18bzdy/image/upload/v1677363222/random%20storage/Prime_aocj3k.png" alt="yodkwtf banner"></a>
+</p>
 
-<!--
-**yodkwtf/yodkwtf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://yodkwtf.com" target="_blank">
+    <img src="https://img.shields.io/badge/website-00995e?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yodkwtf" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/c/yodkwtf" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-f00000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/durgesh-chaudhary" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
