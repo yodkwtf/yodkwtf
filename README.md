@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://yodkwtf.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dds18bzdy/image/upload/v1677409233/random%20storage/GitHub_Readme_Banner_lw4lnn.png" alt="yodkwtf banner"></a>
+  <a href="https://yodkwtf.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dds18bzdy/image/upload/v1734262997/random%20storage/GitHub_Readme_Banner_lw4lnn.png" alt="yodkwtf banner"></a>
 </p>
 
 <p align="center">
